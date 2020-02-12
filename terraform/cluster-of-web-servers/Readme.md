@@ -1,4 +1,5 @@
-Sample Project based on following blog :
+# Sample Project based on following blog :
+
 https://blog.gruntwork.io/an-introduction-to-terraform-f17df9c6d180
 https://github.com/gruntwork-io/intro-to-terraform/tree/master/cluster-of-web-servers
 
